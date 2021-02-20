@@ -2,13 +2,11 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ohbashunsuke/posts.svg)](http://qiita.com/ohbashunsuke) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ohbashunsuke/contributions.svg)](http://qiita.com/ohbashunsuke) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ohbashunsuke/followers.svg)](http://qiita.com/ohbashunsuke)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baobao&count_private=true&show_icons=true&theme=monokai)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baobao&layout=compact&theme=monokai)
 
 <!--
 **baobao/baobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baobao&count_private=true&show_icons=true&theme=monokai)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baobao&layout=compact&theme=monokai)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
